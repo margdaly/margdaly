@@ -1,3 +1,5 @@
+![Github Banner](https://github.com/margdaly/margdaly/blob/main/GitHub%20Banner.png)
+
 ### Hi there 👋
 
 <!--
