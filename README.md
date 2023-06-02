@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marg-aret-daly) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:margaret.daly@gmail.com)
 
-![Margaret's GitHub stats](https://github-readme-stats.vercel.app/api?username=margdaly&show_icons=true&theme=nord)
+
 <!--
 **margdaly/margdaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
