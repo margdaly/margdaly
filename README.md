@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marg-aret-daly) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:margaret.daly@gmail.com)
 
+![Margaret's GitHub stats](https://github-readme-stats.vercel.app/api?username=margdaly&show_icons=true&theme=nord)
 <!--
 **margdaly/margdaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,7 +25,9 @@
 
 <h2>My Stats</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=margdaly&theme=nord&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats.herokuapp.com?user=margdaly&theme=nord&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+
+![Margaret's GitHub stats](https://github-readme-stats.vercel.app/api?username=margdaly&show_icons=true&theme=nord)
 
 Here are some ideas to get you started:
 
