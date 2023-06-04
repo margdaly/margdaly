@@ -1,17 +1,13 @@
 ![Github Banner](https://github.com/margdaly/margdaly/blob/main/GitHub%20Banner.png)
-
-### Hi there 👋
-
 <br>
-
 <h3>Let's connect!</h3>
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marg-aret-daly) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:margaret.daly@gmail.com)
 
 
 <!--
 **margdaly/margdaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### Hi there 👋
 
 <br>
 
